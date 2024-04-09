@@ -1,7 +1,5 @@
 # Snake Eater
 
-![Snake Eater](snake_eater.png)
-
 ## Description
 
 Automatic ML model for playing Snake Eater. 
